@@ -15,11 +15,9 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “Pergunta 1”,
-alternativas: [“Alternativa 1”, “Alternativa 2”],
-},
+// enunciado: messi muito melhor que cr7?
 {
 enunciado: “Pergunta 2”,
-alternativas: [“Alternativa 1”, “Alternativa 2”],
+alternativas: [“sim ”, “nao”],
 },
 ];
